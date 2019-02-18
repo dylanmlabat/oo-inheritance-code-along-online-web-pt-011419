@@ -1,3 +1,2 @@
-class Vehicle
-
-end
+@sender.balance -= @amount
+      @receiver.balance += @amount
